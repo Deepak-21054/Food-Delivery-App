@@ -15,7 +15,7 @@ Building a **Full Stack Online Food Delivery Application** using **React + Sprin
 - Tailwind CSS
 - Axios
 - React Router
-- Context API / Redux
+- Context API 
 
 ## Backend
 - Spring Boot
@@ -62,6 +62,30 @@ Users can:
 6. Admin receives order  
 7. Admin updates order status  
 8. User tracks order
+
+## Prerequisites
+
+### Backend
+- Java JDK  21
+- Apache Maven
+- MongoDB
+
+### Frontend
+- Node.js
+- npm
+
+### IDEs
+- IntelliJ IDEA (Backend)
+- VS Code (Frontend)
+
+### Backend (To Run)
+- mvn clean install
+- mvn spring-boot:run
+
+### Frontend and Admin panel (To Run)
+- npm install
+- npm run dev
+
 
 
 <img width="1370" height="1055" alt="image" src="https://github.com/user-attachments/assets/87b187b3-7c31-4812-b0be-efb400271292" />
